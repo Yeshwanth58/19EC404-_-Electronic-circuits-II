@@ -22,12 +22,17 @@
 
 # Tabulation
 
+![WhatsApp Image 2025-11-17 at 20 17 42_03e6d099](https://github.com/user-attachments/assets/21d3351d-113d-4079-8fc5-0f1c584bbff4)
 
 # Graph
 
+![WhatsApp Image 2025-11-17 at 20 17 56_00430e49](https://github.com/user-attachments/assets/bc2dafad-6d3e-4651-9c38-b0a326e41e62)
+![WhatsApp Image 2025-11-17 at 20 18 34_bf4a02e7](https://github.com/user-attachments/assets/351b8c41-ec17-48fe-ac67-ee42150f937f)
 
 # Sample images 
+![WhatsApp Image 2025-11-17 at 09 20 12_005133d6](https://github.com/user-attachments/assets/73264092-d193-4d21-936a-f3d26512294b)
 
 
 # Result
-
+Theorectical frequency 118.2khz
+Practical frequency 106.73hz
