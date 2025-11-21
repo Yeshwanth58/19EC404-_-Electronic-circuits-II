@@ -31,13 +31,12 @@
 Thus the voltage shunt feedback amplifier is designed and constructed  and the following parameters are calculated.
 | S.No | Parameters | Without Feedback | With Feedback |
 |:----:|-------------|:----------------:|:--------------:|
-| 1 | Lower cut-off frequency | = | = |
-| 2 | Upper cut-off frequency | = | = |
-| 3 | Bandwidth | \( BW = fh - fl = \) | \( BW = f'h - f'l = \) |
-| 4 | Mid-band Gain | \( A{v(mid)} = \) | \( A'{v(mid)} = \) |
-| 5 | Gain at half power point |  |  |
+| 1 | Lower cut-off frequency | =5khz | =70hz |
+| 2 | Upper cut-off frequency | =1Mhz | =200khz |
+| 3 | Bandwidth | \( BW = fh - fl = 79500hz\) | \( BW = f'h - f'l =199930hz \) |
+| 4 | Mid-band Gain | \( A{v(mid)} =46.76 \) | \( A'{v(mid)} =25.57 \) |
+| 5 | Gain at half power point | 33.06 |  18.08|
 
----
 
 **Conclusion:**  
 The frequency response of the voltage-shunt feedback amplifier was studied. It was observed that the **gain decreases** while the **bandwidth increases** when negative feedback is applied, confirming the theoretical expectations.
